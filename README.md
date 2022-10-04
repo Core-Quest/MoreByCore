@@ -8,7 +8,7 @@ https://github.com/Core-Quest/MoreByCore/issues/new/choose
 ## How to discuss and communicate with me!
 https://github.com/Core-Quest/MoreByCore/discussions
 
-# ## Changes for Update 1.3.0
+# Changes for Update 1.3.0
 *  Fixed GAP when No Promo is Enabled*(CLEAN UI)*
 
 ## MoreByCore Features
