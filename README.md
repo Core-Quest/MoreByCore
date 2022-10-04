@@ -8,6 +8,9 @@ https://github.com/Core-Quest/MoreByCore/issues/new/choose
 ## How to discuss and communicate with me!
 https://github.com/Core-Quest/MoreByCore/discussions
 
+# ## Changes for Update 1.3.0
+*  Fixed GAP when No Promo is Enabled*(CLEAN UI)*
+
 ## MoreByCore Features
 *  **1.1.0** Saber Marq Qeeper*(Keeps your BurnMarks)*
 *  **1.1.0** NoPromo*(Removes Annoying Promotion)*
@@ -18,8 +21,7 @@ https://github.com/Core-Quest/MoreByCore/discussions
 *   **1.2.0** Better UI*(Cleaner/Easier to use UI)*
 *  **1.2.1** Fixed Pause Menu Color*(Not always showing up even when lights are enabled)*
 
-## Changes for Update 1.3.0
-*  Fixed GAP when No Promo is Enabled*(CLEAN UI)*
+
 
 
 
