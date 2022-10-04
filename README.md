@@ -6,7 +6,7 @@ Mod that I created to learn about basic modding if you have any bugs please repo
 https://github.com/Core-Quest/MoreByCore/issues/new/choose
 
 ## How to discuss and communicate with me!
-
+https://github.com/Core-Quest/MoreByCore/discussions
 
 ## MoreByCore Features
 *  **1.1.0** Saber Marq Qeeper*(Keeps your BurnMarks)*
