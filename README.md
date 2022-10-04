@@ -2,6 +2,12 @@
 
 Mod that I created to learn about basic modding if you have any bugs please report! Enjoy.
 
+## How to request Features!
+https://github.com/Core-Quest/MoreByCore/issues/new/choose
+
+## How to discuss and communicate with me!
+
+
 ## MoreByCore Features
 *  **1.1.0** Saber Marq Qeeper*(Keeps your BurnMarks)*
 *  **1.1.0** NoPromo*(Removes Annoying Promotion)*
