@@ -15,5 +15,5 @@ Mod that I created to learn about basic modding if you have any bugs please repo
 ## Changes for Update 1.3.0
 *  Fixed GAP when No Promo is Enabled*(CLEAN UI)*
 
-## Credits
+
 
